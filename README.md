@@ -26,7 +26,7 @@ poetry run streamlit run st_webdb/main.py
 
 ![](img/new_app.jpg)
 
-- 下図のように入力し「Deply!」を押す
+- 下図のように入力し「Deploy!」を押す
 
 ![](img/deploy.jpg)
 
