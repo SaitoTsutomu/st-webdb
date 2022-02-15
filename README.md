@@ -33,3 +33,10 @@ poetry run streamlit run st_webdb/main.py
 しばらく待つと、下記のように表示されます。
 
 ![](img/app.jpg)
+
+
+```mermaid
+graph TD;
+    CSV-->最適化実行;
+    最適化実行-->結果;
+```
